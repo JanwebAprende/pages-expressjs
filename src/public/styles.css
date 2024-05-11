@@ -1,0 +1,12 @@
+body {
+    background-color: #222;
+    color: white;
+}
+
+
+h1 {
+    background-color: #222;
+    border: 1px solid brown;
+    width: 200px;
+    padding: 20px;
+}
